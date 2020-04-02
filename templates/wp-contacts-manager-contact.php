@@ -6,7 +6,7 @@ wp_enqueue_style('admin-style-css');
 
 	<div id="message" class="updated notice is-dismissible">
 	  
-	  <p>¿Te gusta <strong>WP Contacts Manager</strong>? ¿Sabías que tenemos una versión PRO <a href="http://wpcontactsmanager.com" target="_new"><strong>WP Contacts Manager Pro </strong>?</a> Compruébalo, puede que te entusiasme.</p> <button type="button" class="notice-dismiss"><span class="screen-reader-text">Descartar este aviso.</span></button>
+	  <p>¿Te gusta <strong>WP Contacts Manager</strong>? ¿Sabías que tenemos una versión PRO <a href="https://labarta.es/wp-contacts-manager-plugin-wordpress/" target="_new"><strong>WP Contacts Manager Pro </strong>?</a> Compruébalo, puede que te entusiasme.</p> <button type="button" class="notice-dismiss"><span class="screen-reader-text">Descartar este aviso.</span></button>
 
 	</div>
 	
